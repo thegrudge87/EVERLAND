@@ -1,2 +1,2 @@
 # EVERLAND
-Repository for the team project of team EVERLAND for PHP Basics course in SoftUni
+Repository for the team project of team EVERLAND for the PHP Basics course in SoftUni
