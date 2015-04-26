@@ -18,7 +18,7 @@
 				
 		<a href="viewAlbum.php?id=<?php echo $album_id;?>">
 			<div id="albumViewer">
-				<img src="/everland/photoUploads/<?php echo $pic; ?>";
+				<img src="/Everland_Album_System/photoUploads/<?php echo $pic; ?>";
 				<br/>
 				<b><?php echo $album_name;?>
 			</div>
